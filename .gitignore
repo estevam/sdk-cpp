@@ -20,3 +20,8 @@
 *.d
 *.o
 Debug/src/subdir.mk
+Debug/makefile
+Debug/objects.mk
+.DS_Store
+Debug/sources.mk
+Debug/sdk-cpp
