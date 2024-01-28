@@ -1,0 +1,19 @@
+
+
+# Package Files #
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.sh
+
+# Eclipse
+.Debug
+.classpath
+.cproject
+.project
+.settings/
+.springBeans
+.git
+.factorypath
