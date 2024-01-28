@@ -17,3 +17,6 @@
 .springBeans
 .git
 .factorypath
+*.d
+*.o
+Debug/src/subdir.mk
