@@ -63,16 +63,10 @@ int main() {
 cout << uuid;
 	string h = "  \n Hello World " + 	geekObj.name;
 	cout << h << endl; // Hello World!!!
-
-
-
-
-	//new Singleton(); // Won't work
-	Singleton* s = Singleton::getInstance(); // Ok
+	Singleton* s = Singleton::getInstance();
     Singleton* r = Singleton::getInstance();
 
 	/* The addresses will be the same. */
-
     cout << "Call singleton class will print the same address:  \n ";
 	std::cout << s << std::endl;
 	std::cout << r << std::endl;
