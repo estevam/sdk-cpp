@@ -2,7 +2,7 @@
  * Singleton.cpp
  *
  *  Created on: Jan. 28, 2024
- *      Author: estevammeneses
+ *      Author: Estevam
  */
 
 #include "Singleton.h"

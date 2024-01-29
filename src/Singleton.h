@@ -2,7 +2,7 @@
  * Singleton.h
  *
  *  Created on: Jan. 28, 2024
- *      Author: estevammeneses
+ *      Author: Estevam
  */
 #ifndef SINGLETON_H_
 #define SINGLETON_H_

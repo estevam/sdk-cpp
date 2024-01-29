@@ -2,9 +2,8 @@
  * Geek.h
  *
  *  Created on: Apr 19, 2020
- *      Author: estevam
+ *      Author: Estevam
  */
-
 #ifndef GEEK_H_
 #define GEEK_H_
 #include<string>
